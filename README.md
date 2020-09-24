@@ -1,4 +1,6 @@
 # Logistic-Regression-on-Titanic-data
+
+Data Set -Famous titanic data from kaggle- https://www.kaggle.com/c/titanic
 Predicting whether a passenger survived or not using independent variables like sex,embarked,passenger class,ticketfare,age,etc.
 
 Cleaning datas including droping missing datas or replacing with the mean after using groupby on a categorical variable which is highly correlated with feature.
